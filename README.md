@@ -1,1 +1,1 @@
-# Voice-Assistant
+This project is a Personal Voice Assistant with voice recognition and text-to-speech capabilities. The assistant can perform tasks similar to popular virtual assistants like Google Assistant, while also featuring fun, customizable responses including flirty dialogues. It supports over 50 predefined questions and responses and can handle a variety of user interactions.
